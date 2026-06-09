@@ -93,8 +93,13 @@ feature end to end, from database schema to deployed endpoint.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=coder-bks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-bks&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+  <img src="https://img.shields.io/badge/Public_Repos-4-1A7DBC?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories"/>
+  <img src="https://img.shields.io/badge/Primary_Stack-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Primary Stack"/>
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_AI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Focus"/>
+</p>
+
+<p align="center">
+  <sub>Live GitHub stats: <a href="https://github.com/coder-bks?tab=repositories">github.com/coder-bks</a></sub>
 </p>
 
 ---
