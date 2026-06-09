@@ -94,6 +94,7 @@ feature end to end, from database schema to deployed endpoint.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Public_Repos-4-1A7DBC?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories"/>
+  <img src="https://img.shields.io/badge/Contributions-129-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions"/>
   <img src="https://img.shields.io/badge/Primary_Stack-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Primary Stack"/>
   <img src="https://img.shields.io/badge/Focus-Backend_%26_AI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Focus"/>
 </p>
