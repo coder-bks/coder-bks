@@ -23,7 +23,7 @@ feature end to end, from database schema to deployed endpoint.
 
 - 🤖 I build: **REST APIs, retrieval-augmented LLM pipelines, and automation bots**
 - 🧩 I care about: clean API design, security, data integrity, and reliable deploys
-- 🌱 Currently learning: <!-- TODO: e.g. "Docker & CI/CD" / "agentic LLM workflows" / "system design" -->
+- 🌱 Currently learning: Machine Learning / agentic LLM workflows / system design
 - 💬 Ask me about: **Python, FastAPI, RAG / LangChain, PostgreSQL**
 - 🎯 Open to: **Backend / AI engineering internships or Junior backend roles** 
 
